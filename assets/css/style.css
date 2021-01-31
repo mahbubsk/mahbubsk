@@ -5663,6 +5663,60 @@ a:hover, a:active {
   background-color: black;
 }
 
+
+/*contact section social links design here*/
+.contact-social-profile-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction:column;
+  margin: -5px;
+}
+.contact-social-profile-list > li > a {
+  color: white;
+  font-size: 14px;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background-color: #e9204f;
+  translate: all 0.25s;
+  margin: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+.contact-social-profile-list > li > p {
+  cursor:pointer;
+  position:relative;
+  width:60%;
+  
+}
+.contact-social-profile-list > li > p:after{
+  content:"\21A0";
+  position:absolute;
+  top:0;
+  right:0;
+  font-size:35px;
+}
+
+@media (min-width: 1200px) {
+  .contact-social-profile-list > a {
+    font-size: 16px;
+    width: 45px;
+    height: 45px;
+  }
+}
+.contact-social-profile-list > a:hover {
+  background-color: black;
+}
+
+/*contact section social links design end here.*/
 /*--------------------------------------------------------------
     [ ## team ]
 --------------------------------------------------------------*/
