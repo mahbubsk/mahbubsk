@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 # - 📫 How to reach me: 
-[<img src="./assets/images/facebook.svg" style="margin-left:20px"  width="25"/>](https://www.facebook.com/learner.mahbub/)
-[<img src="./assets/images/linkedin.svg" style="margin-left:20px"  width="25"/>](https://www.linkedin.com/in/md-mahbub-sk/) 
-[<img src="./assets/images/twitter.svg" style="margin-left:20px"  width="25"/>](https://twitter.com/md_mahbub_sK)
-[<img src="./assets/images/instagram.svg" style="margin-left:20px" width="25"/>](https://www.instagram.com/md_mahbub_sk/)
-[<img src="./assets/images/profile.svg" style="margin-left:20px" width="25"/>](https://mahbubsk.me/)
+[<img src="./assets/images/facebook.svg" width="25"/>](https://www.facebook.com/learner.mahbub/)
+[<img src="./assets/images/linkedin.svg" width="25"/>](https://www.linkedin.com/in/md-mahbub-sk/) 
+[<img src="./assets/images/twitter.svg" width="25"/>](https://twitter.com/md_mahbub_sK)
+[<img src="./assets/images/instagram.svg"  width="25"/>](https://www.instagram.com/md_mahbub_sk/)
+[<img src="./assets/images/profile.svg"  width="25"/>](https://mahbubsk.me/)
 
 
