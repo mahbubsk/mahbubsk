@@ -8797,7 +8797,7 @@ a:hover, a:active {
 
 
 .hero-custom-bg{
-  background-color:black;
+  background-color:black !important;
   background-size:100%;
   background-position:center;
 }
