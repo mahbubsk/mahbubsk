@@ -4978,10 +4978,13 @@ a:hover, a:active {
   flex-wrap: wrap;
   line-height: 1.8em;
 }
+
+
 @media (min-width: 576px) {
   .hero-block .hero-services {
     font-size: 18px;
   }
+  
 }
 @media (min-width: 992px) {
   .hero-block .hero-services {
@@ -5029,6 +5032,7 @@ a:hover, a:active {
   .hero-block .text-center .hero-desc {
     margin-bottom: 15px;
   }
+
 }
 .hero-block .text-center .hero-services {
   -webkit-box-pack: center;
@@ -8789,4 +8793,11 @@ a:hover, a:active {
 }
 .single-contact-info p a:hover {
   color: #e9204f;
+}
+
+
+.hero-custom-bg{
+  background-color:black;
+  background-size:100%;
+  background-position:center;
 }
