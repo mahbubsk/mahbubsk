@@ -17,9 +17,6 @@
 Hi, I'm [Md Mahbubur Rahman](https://mahbubsk.me), a passionate self-taught Full Stack web designer. My passion is always help others. I take great care in the experience, architecture of style sheet, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://ibb.co/yFd40mC" width="500" height="320" />
   
 
 **Languages and Tools:**  
@@ -38,11 +35,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 55 mins   ██████████████░░░░░░░░░░░   56.05 % 
-TypeScript   2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Python       59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-SCSS         54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JSON         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+CSS Architecture 6 hrs 55 mins   ██████████████░░░░░░░░░░░   56.05 % 
+CSS New Terms    1 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Programming      1 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+SCSS             1 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Project          1 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -61,7 +58,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mahbubsk&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mahbubsk&show_icons=true&theme=gotham" alt="mahbub sk" />
 
 
 
