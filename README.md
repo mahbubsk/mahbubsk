@@ -7,6 +7,7 @@
   <img align="left" alt="Md Mahbubur Rahman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+[![main](https://github.com/whatyouhide/vim-gotham/workflows/main/badge.svg?branch=master)](https://github.com/mahbubsk?query=workflow%3Amain)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mahbubsk.mahbubsk)
 
