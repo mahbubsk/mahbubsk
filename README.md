@@ -56,7 +56,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahbubsk&show_icons=true&theme=gotham&card_width=550" alt="mahbub sk" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=mahbubsk&show_icons=true&theme=gotham&card_width=600" alt="mahbub sk" /> 
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubsk&show_icons=true&theme=gotham&card_width=550)](https://github.com/mahbubsk/mahbubsk)
 
