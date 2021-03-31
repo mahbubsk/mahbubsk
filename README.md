@@ -1,5 +1,24 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<p align="center">
+<a href="https://github.com/mahbubsk/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/mahbubsk/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
+</a>
+<a href="https://github.com/mahbubsk/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/github/forks/mahbubsk/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/mahbubsk/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/mahbubsk/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/mahbubsk/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/mahbubsk/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/mahbubsk/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/mahbubsk/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+
+</p>
+
 <a href="https://twitter.com/md_mahbub_sK">
   <img align="left" alt="Md Mahbubur Rahman| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
